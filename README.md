@@ -10,5 +10,5 @@ This is a Solar Energy Introductory Web Application. <br> Here you can get every
 * phP
 * Carousel Library
 
-# Screenshots
+# Screenshot
 
