@@ -12,3 +12,4 @@ This is a Solar Energy Introductory Web Application. <br> Here you can get every
 
 # Screenshot
 
+![smart-energy-full-page](https://github.com/Hashuudev/Solar-Energy-Landing-Page/assets/94761963/b57ca584-9136-4f32-be0e-a6b9c17ef3a4)
