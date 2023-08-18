@@ -7,7 +7,7 @@ This is a Solar Energy Introductory Web Application. <br> Here you can get every
 * JavaScript
 * Bootstrap
 * SCSS
-* phP
+* Php
 * Carousel Library
 
 # Screenshot
